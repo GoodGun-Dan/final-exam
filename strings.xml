@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalEnroll</string>
+    <string name="app_info_text">Welcome to the Enhanced Student Enrollment App!\n\nThis app allows you to:\n- Register and log in securely\n- Enroll in subjects manually\n- View your enrollment summary and credit limits\nEnjoy a seamless and user-friendly experience!</string>
+    <string name="about_title">About</string>
+    <string name="about_content">This app is an enhanced student enrollment system that allows you to register, log in, enroll in subjects, and view your enrollment summary and credit limits. Enjoy a seamless and user-friendly experience!</string>
+    <string name="back_button">Back</string>
+    <string name="welcome_message">Welcome to the Enhanced Enrollment App!</string>
+</resources>
